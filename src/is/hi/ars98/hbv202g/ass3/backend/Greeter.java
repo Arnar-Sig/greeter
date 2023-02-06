@@ -1,3 +1,4 @@
+package is.hi.ars98.hbv202g.ass3.backend;
 public class Greeter {
 
 	private Language language = Language.ENGLISH;
