@@ -1,0 +1,1 @@
+java -cp bin src/is/hi/ars98/hbv202g/ass3/frontend/Main.java

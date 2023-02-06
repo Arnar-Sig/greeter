@@ -1,2 +1,3 @@
+Manifest-Version: 1.0
 Main-Class: is.hi.ars98.hbv202g.ass3.frontend.Main
-Class-Path: bin/
+
